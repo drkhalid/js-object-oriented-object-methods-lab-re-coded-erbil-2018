@@ -1,4 +1,5 @@
-function BoardMember(name, homeState, 
+function BoardMember(name, homeState, training){
+  
   
   
 }
